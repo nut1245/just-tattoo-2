@@ -8,7 +8,7 @@ function AppSearch(props) {
                 className="app-search-input"
                 type="text" 
                 value={value} 
-                placeholder="Search tattoos"
+                placeholder="Search RTX Sirie"
                 onChange={(event) => onValueChange(event.target.value)} 
             />
         </div>
